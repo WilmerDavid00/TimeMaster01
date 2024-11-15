@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xhdpi_ic_logo.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_button_background.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxxhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxxhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_ic_splashscreen.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/ic_splashscreen.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_ic_logo_background.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/ic_logo_background.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/menu_option_menu.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/menu/option_menu.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-anydpi-v26/ic_logo.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-mdpi_ic_logo.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-mdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxhdpi_ic_logo.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_ic_add_icon.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/ic_add_icon.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxhdpi_ic_logo_round.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_shape.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/shape.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_todologo1.png.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/todologo1.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_img.png.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-mdpi_ic_logo_round.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-mdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxxhdpi_ic_logo_round.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxxhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_ic_setting.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/ic_setting.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xhdpi_ic_logo_round.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/color_chip_text_color.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/color/chip_text_color.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/layout_add_view.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/layout/add_view.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-mdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-mdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_bg_btn_delete.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/bg_btn_delete.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_edit_texr_background.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/edit_texr_background.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/layout_activity_update.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/layout/activity_update.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-anydpi-v26/ic_logo_round.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/menu_contxt_menu.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/menu/contxt_menu.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/layout_activity_main2.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/layout_activity_signup.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-hdpi_ic_logo_round.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-hdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxxhdpi_ic_logo.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxxhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_baseline_calendar.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/baseline_calendar.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_baseline_task_alt_24.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/baseline_task_alt_24.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_half_shape.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/half_shape.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/drawable_baseline_time.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/drawable/baseline_time.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-hdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-hdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/layout_activity_login.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-hdpi_ic_logo.webp.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-hdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/layout_activity_create.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/layout/activity_create.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/color_chip_background_color.xml.flat",
+        "source": "com.example.tododemo.app-main-38:/color/chip_background_color.xml"
+    },
+    {
+        "merged": "com.example.tododemo.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.tododemo.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    }
+]

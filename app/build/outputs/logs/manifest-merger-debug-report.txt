@@ -1,0 +1,381 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\fd2df52a4b5beb25fcff3e3cad5d7008\transformed\viewbinding-8.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\a2c78ac5afbad6f290f7c2d6162fac1e\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\85af022cb3e75c3748e6062418b11c19\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\88048502e872c4027ab4d68ac6527059\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\ce199e290eb42cec68de2cc70c7954b2\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\69ce6abb0ae3cc3ae64f5fd180abd70e\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\2f30885cde809358d9d4db5cc03d09d7\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\582cadf609531e981d1f8e730b539270\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\a704324c7c10df4d023712ebfd3041f8\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\9228e188c3412c66c73bea2f577712a3\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\2e94d36ffa28e54faa2cbe00ca86a1a5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\a26138fcf9a1526a61eb89775fd59837\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\bbef9e17d3be4a554c722abd7c9e8e2c\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c3afa10be74e4a693abcda02b3aae076\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\9660ad206ad4bb7ac287ebb456f8ce6e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\db4fbb54c9abdcd5dbb8034e4ceda82c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\653e1995ef2813eb77c6f01501f70dec\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\619e03b1514110bd0434c20a27af17d6\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\0730989e4a2b36701b9f50b44086cd56\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\17160119677b42fe0021ffbd6c09357d\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\73f30efbded625d91167313be3933942\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\06667d5ee790f16b9672ce128b04576e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\807d4e978c649ea940e8aa4469c4e2cd\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c99e74d3af04b7d1280c267c4119eb2d\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\98c87496c6a3f7923828f4689a48f468\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\e72ea23a95309f91e560e8206a2d0fb9\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c5f161d4f3503b9444a0bb9b8fe2d558\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\61a61c5c7ea3bee97d663f1f8a61dc47\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\3367a5a940135654c4bbe8859eb3d906\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\b081c73c6a91ec1b57b319a01e5cfa4f\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c09ac9d9c16fbed4de09cccacfd744a9\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d4bcca01b557272db59abe63e60ea706\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\afad79a08aebb4dd6f4c0f809667dce7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\0620b4f96ef1a6dd0b96a083232fed20\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\4e383c91e4a271ab2f33acb6c9d114fa\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\5caf23e691e24c0d021f988a4f964ca0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\97ddf8929377ada42a11a00d47098916\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34ddbf5e03d8d561d656b6e3c0d10884\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\6b415ac25105a6c9da789b1a02c51a62\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\ef44f5bb59ba5077375e987fd899f4b7\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\e1a7e3a5a3184497fb7deafebae567c7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\3040928f55603e6a1908209d809b2808\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\189beec99428fa224c2a208fe2e3aba0\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:5:22-74
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:8:22-65
+application
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:10:5-53:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\a2c78ac5afbad6f290f7c2d6162fac1e\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\a2c78ac5afbad6f290f7c2d6162fac1e\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\85af022cb3e75c3748e6062418b11c19\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\85af022cb3e75c3748e6062418b11c19\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\61a61c5c7ea3bee97d663f1f8a61dc47\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\61a61c5c7ea3bee97d663f1f8a61dc47\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\5caf23e691e24c0d021f988a4f964ca0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\5caf23e691e24c0d021f988a4f964ca0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34ddbf5e03d8d561d656b6e3c0d10884\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34ddbf5e03d8d561d656b6e3c0d10884\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:15:9-35
+	android:fullBackupContent
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:13:9-54
+	android:roundIcon
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:16:9-50
+	tools:targetApi
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:19:9-29
+	android:icon
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:14:9-39
+	android:allowBackup
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:18:9-46
+	android:dataExtractionRules
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:12:9-65
+activity#com.example.tododemo.MainActivity2
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:21:13-42
+activity#com.example.tododemo.SplashScreenActivity
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:24:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:29:27-74
+service#com.example.tododemo.MyJobScheduler
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:33:9-36:72
+	android:exported
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:35:13-37
+	android:permission
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:34:13-43
+activity#com.example.tododemo.UpdateActivity
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:39:13-43
+activity#com.example.tododemo.CreateActivity
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:42:13-43
+activity#com.example.tododemo.loginActivity
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:44:9-46:49
+	android:exported
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:45:13-42
+activity#com.example.tododemo.signupActivity
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:47:9-49:40
+	android:exported
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:48:13-43
+activity#com.example.tododemo.MainActivity
+ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:50:9-52:40
+	android:exported
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml:51:13-41
+uses-sdk
+INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\fd2df52a4b5beb25fcff3e3cad5d7008\transformed\viewbinding-8.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\fd2df52a4b5beb25fcff3e3cad5d7008\transformed\viewbinding-8.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\a2c78ac5afbad6f290f7c2d6162fac1e\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\a2c78ac5afbad6f290f7c2d6162fac1e\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\85af022cb3e75c3748e6062418b11c19\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\85af022cb3e75c3748e6062418b11c19\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\88048502e872c4027ab4d68ac6527059\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\88048502e872c4027ab4d68ac6527059\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\ce199e290eb42cec68de2cc70c7954b2\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\ce199e290eb42cec68de2cc70c7954b2\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\69ce6abb0ae3cc3ae64f5fd180abd70e\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\69ce6abb0ae3cc3ae64f5fd180abd70e\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\2f30885cde809358d9d4db5cc03d09d7\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\2f30885cde809358d9d4db5cc03d09d7\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\582cadf609531e981d1f8e730b539270\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\582cadf609531e981d1f8e730b539270\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\a704324c7c10df4d023712ebfd3041f8\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\a704324c7c10df4d023712ebfd3041f8\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\9228e188c3412c66c73bea2f577712a3\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\9228e188c3412c66c73bea2f577712a3\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\2e94d36ffa28e54faa2cbe00ca86a1a5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\2e94d36ffa28e54faa2cbe00ca86a1a5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\a26138fcf9a1526a61eb89775fd59837\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\a26138fcf9a1526a61eb89775fd59837\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\bbef9e17d3be4a554c722abd7c9e8e2c\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\bbef9e17d3be4a554c722abd7c9e8e2c\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c3afa10be74e4a693abcda02b3aae076\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c3afa10be74e4a693abcda02b3aae076\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\9660ad206ad4bb7ac287ebb456f8ce6e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\9660ad206ad4bb7ac287ebb456f8ce6e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\db4fbb54c9abdcd5dbb8034e4ceda82c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\db4fbb54c9abdcd5dbb8034e4ceda82c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\653e1995ef2813eb77c6f01501f70dec\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\653e1995ef2813eb77c6f01501f70dec\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\619e03b1514110bd0434c20a27af17d6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\619e03b1514110bd0434c20a27af17d6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\0730989e4a2b36701b9f50b44086cd56\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\0730989e4a2b36701b9f50b44086cd56\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\17160119677b42fe0021ffbd6c09357d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\17160119677b42fe0021ffbd6c09357d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\73f30efbded625d91167313be3933942\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\73f30efbded625d91167313be3933942\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\06667d5ee790f16b9672ce128b04576e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\06667d5ee790f16b9672ce128b04576e\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\807d4e978c649ea940e8aa4469c4e2cd\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\807d4e978c649ea940e8aa4469c4e2cd\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c99e74d3af04b7d1280c267c4119eb2d\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c99e74d3af04b7d1280c267c4119eb2d\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\98c87496c6a3f7923828f4689a48f468\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\98c87496c6a3f7923828f4689a48f468\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\e72ea23a95309f91e560e8206a2d0fb9\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\e72ea23a95309f91e560e8206a2d0fb9\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c5f161d4f3503b9444a0bb9b8fe2d558\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c5f161d4f3503b9444a0bb9b8fe2d558\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\61a61c5c7ea3bee97d663f1f8a61dc47\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\61a61c5c7ea3bee97d663f1f8a61dc47\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\3367a5a940135654c4bbe8859eb3d906\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\3367a5a940135654c4bbe8859eb3d906\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\b081c73c6a91ec1b57b319a01e5cfa4f\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\b081c73c6a91ec1b57b319a01e5cfa4f\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c09ac9d9c16fbed4de09cccacfd744a9\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\c09ac9d9c16fbed4de09cccacfd744a9\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d4bcca01b557272db59abe63e60ea706\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d4bcca01b557272db59abe63e60ea706\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\afad79a08aebb4dd6f4c0f809667dce7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\afad79a08aebb4dd6f4c0f809667dce7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\0620b4f96ef1a6dd0b96a083232fed20\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\0620b4f96ef1a6dd0b96a083232fed20\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\4e383c91e4a271ab2f33acb6c9d114fa\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\4e383c91e4a271ab2f33acb6c9d114fa\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\5caf23e691e24c0d021f988a4f964ca0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\5caf23e691e24c0d021f988a4f964ca0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\97ddf8929377ada42a11a00d47098916\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\97ddf8929377ada42a11a00d47098916\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34ddbf5e03d8d561d656b6e3c0d10884\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34ddbf5e03d8d561d656b6e3c0d10884\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\6b415ac25105a6c9da789b1a02c51a62\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\6b415ac25105a6c9da789b1a02c51a62\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\ef44f5bb59ba5077375e987fd899f4b7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\ef44f5bb59ba5077375e987fd899f4b7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\e1a7e3a5a3184497fb7deafebae567c7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\e1a7e3a5a3184497fb7deafebae567c7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\3040928f55603e6a1908209d809b2808\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\3040928f55603e6a1908209d809b2808\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\189beec99428fa224c2a208fe2e3aba0\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\189beec99428fa224c2a208fe2e3aba0\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WILMER DAVID\Desktop\W\TimeMaster\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\61a61c5c7ea3bee97d663f1f8a61dc47\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\61a61c5c7ea3bee97d663f1f8a61dc47\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\5caf23e691e24c0d021f988a4f964ca0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\5caf23e691e24c0d021f988a4f964ca0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\34564c5e75a94b537c79b4a2cda166ba\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.example.tododemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.tododemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\7d602a1d0619be76bdc0930c0dc1681d\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\61a61c5c7ea3bee97d663f1f8a61dc47\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\61a61c5c7ea3bee97d663f1f8a61dc47\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\61a61c5c7ea3bee97d663f1f8a61dc47\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WILMER DAVID\.gradle\caches\transforms-3\d92c7703163fbda6e0eca1117ab6edc8\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
